@@ -1,1 +1,1 @@
-# spring_practice2
+# 회원가입 시 중복 검사 실행
